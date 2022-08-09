@@ -1,7 +1,7 @@
 # fundamentos-de-node.js
 
-entorno
-monohilo
-asyn and await
-promesas
-callback
+Entorno
+Monohilo
+Asyn and await
+Promesas
+Callback
